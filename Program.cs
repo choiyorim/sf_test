@@ -14,7 +14,12 @@ namespace ConsoleApp1
             string name;
             bool tr;
             Console.WriteLine("hello!");
+<<<<<<< HEAD
             
+=======
+            Console.WriteLine("nice to meet you!");
+            //이 코드는 test용 
+>>>>>>> 972787c1d5480550c075ff9a57d0ffca8cf703d4
         }
     }
 }
