@@ -10,9 +10,13 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            int number;
+            string name;
+            bool tr;
             Console.WriteLine("hello!");
             Console.WriteLine("nice to meet you!");
             //이 코드는 test용 
+            //수정했다.
         }
     }
 }
