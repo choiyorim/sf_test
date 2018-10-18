@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("hello!");
             Console.WriteLine("nice to meet you!");
+            //이 코드는 test용 
         }
     }
 }
