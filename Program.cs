@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             int number;
             string name;
+            bool tr;
             Console.WriteLine("hello!");
             
         }
